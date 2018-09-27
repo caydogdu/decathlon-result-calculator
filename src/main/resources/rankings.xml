@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rankings>
+<ranking>
+<number>1</number>
+<name>John Smith</name>
+<events>
+<event>
+<eventName>100 metres</eventName>
+<result>12.61</result>
+</event>
+<event>
+<eventName>Long jump</eventName>
+<result>5.00</result>
+</event>
+<event>
+<eventName>Shot put</eventName>
+<result>9.22</result>
+</event>
+<event>
+<eventName>High jump</eventName>
+<result>1.50</result>
+</event>
+<event>
+<eventName>400 metres</eventName>
+<result>60.39</result>
+</event>
+<event>
+<eventName>110 metres hurdles</eventName>
+<result>16.43</result>
+</event>
+<event>
+<eventName>Discuss throw</eventName>
+<result>21.60</result>
+</event>
+<event>
+<eventName>Pole vault</eventName>
+<result>2.60</result>
+</event>
+<event>
+<eventName>Javelin throw</eventName>
+<result>35.81</result>
+</event>
+<event>
+<eventName>1500 metres</eventName>
+<result>5.25.72</result>
+</event>
+</events>
+<total>4200.0</total>
+</ranking>
+<ranking>
+<number>2</number>
+<name>Jaan Lepp</name>
+<events>
+<event>
+<eventName>100 metres</eventName>
+<result>13.75</result>
+</event>
+<event>
+<eventName>Long jump</eventName>
+<result>4.84</result>
+</event>
+<event>
+<eventName>Shot put</eventName>
+<result>10.12</result>
+</event>
+<event>
+<eventName>High jump</eventName>
+<result>1.50</result>
+</event>
+<event>
+<eventName>400 metres</eventName>
+<result>68.44</result>
+</event>
+<event>
+<eventName>110 metres hurdles</eventName>
+<result>19.18</result>
+</event>
+<event>
+<eventName>Discuss throw</eventName>
+<result>30.85</result>
+</event>
+<event>
+<eventName>Pole vault</eventName>
+<result>2.80</result>
+</event>
+<event>
+<eventName>Javelin throw</eventName>
+<result>33.88</result>
+</event>
+<event>
+<eventName>1500 metres</eventName>
+<result>6.22.75</result>
+</event>
+</events>
+<total>3494.0</total>
+</ranking>
+<ranking>
+<number>3</number>
+<name>Jane Doe</name>
+<events>
+<event>
+<eventName>100 metres</eventName>
+<result>13.04</result>
+</event>
+<event>
+<eventName>Long jump</eventName>
+<result>4.53</result>
+</event>
+<event>
+<eventName>Shot put</eventName>
+<result>7.79</result>
+</event>
+<event>
+<eventName>High jump</eventName>
+<result>1.55</result>
+</event>
+<event>
+<eventName>400 metres</eventName>
+<result>64.72</result>
+</event>
+<event>
+<eventName>110 metres hurdles</eventName>
+<result>18.74</result>
+</event>
+<event>
+<eventName>Discuss throw</eventName>
+<result>24.20</result>
+</event>
+<event>
+<eventName>Pole vault</eventName>
+<result>2.40</result>
+</event>
+<event>
+<eventName>Javelin throw</eventName>
+<result>28.20</result>
+</event>
+<event>
+<eventName>1500 metres</eventName>
+<result>6.50.76</result>
+</event>
+</events>
+<total>3199.0</total>
+</ranking>
+<ranking>
+<number>4</number>
+<name>Foo Bar</name>
+<events>
+<event>
+<eventName>100 metres</eventName>
+<result>13.43</result>
+</event>
+<event>
+<eventName>Long jump</eventName>
+<result>4.35</result>
+</event>
+<event>
+<eventName>Shot put</eventName>
+<result>8.64</result>
+</event>
+<event>
+<eventName>High jump</eventName>
+<result>1.50</result>
+</event>
+<event>
+<eventName>400 metres</eventName>
+<result>66.06</result>
+</event>
+<event>
+<eventName>110 metres hurdles</eventName>
+<result>19.05</result>
+</event>
+<event>
+<eventName>Discuss throw</eventName>
+<result>24.89</result>
+</event>
+<event>
+<eventName>Pole vault</eventName>
+<result>2.20</result>
+</event>
+<event>
+<eventName>Javelin throw</eventName>
+<result>33.48</result>
+</event>
+<event>
+<eventName>1500 metres</eventName>
+<result>6.51.01</result>
+</event>
+</events>
+<total>3099.0</total>
+</ranking>
+</rankings>
