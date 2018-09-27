@@ -10,10 +10,14 @@ This project was developed with spring boot. Java 8 is required. No database was
 
 Here is example usage.
 
-   Reader reader = new CSVReader("results.csv");
-   ResultReader resultReader = new DecathlonResultReader(reader);
-   ResultCalculator resultCalculator = new DecathlonResultCalculator(resultReader);
-   List<Ranking> rankings = resultCalculator.calculateRankings();
+
+    Reader reader = new CSVReader("results.csv");
+    ResultReader resultReader = new DecathlonResultReader(reader);
+    ResultCalculator resultCalculator = new DecathlonResultCalculator(resultReader);
+    List<Ranking> rankings = resultCalculator.calculateRankings();
    
-   RankingsXMLWriter writer = new DecathlonRankingsXMLWriter("rankings.xml", rankings);
-   writer.writeRankingsXML();
+    RankingsXMLWriter writer = new DecathlonRankingsXMLWriter("rankings.xml", rankings);
+    writer.writeRankingsXML();
+   
+   
+   
